@@ -76,7 +76,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Shivmis/0..",
+        "value": "https://github.com/Shivmis/1..",
         "required": true
       },
       "UPSTREAM_BRANCH": {
